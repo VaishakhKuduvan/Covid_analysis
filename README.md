@@ -121,7 +121,7 @@ SQL outputs were structured for visualization in Tableau, enabling:
 ---
 
 ## 👨‍💻 Author
-Stevie  
+Vaishakh  
 Aspiring Data Analyst | SQL | Tableau | Data Visualization
 
 ---
