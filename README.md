@@ -1,5 +1,8 @@
 # 🦠 COVID-19 Data Analysis Using SQL
 
+## 📊 Live Dashboard
+👉 https://public.tableau.com/app/profile/vaishakh.kuduvan/viz/CovidDashboard_17760123533370/Dashboard1?publish=yes
+
 ## 📌 Project Summary
 This project is a data analysis case study on global COVID-19 data using SQL Server. It focuses on analyzing infection rates, death rates, and vaccination progress across countries and continents. The goal is to derive data-driven insights and prepare structured datasets for Tableau dashboard visualization.
 
